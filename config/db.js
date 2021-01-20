@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 const Op = Sequelize.Op;
-const sequelize = new Sequelize('score2019', 'root', 'Notallowedtologin$10050611', {
+const sequelize = new Sequelize('score2020', 'root', 'Notallowedtologin$10050611', {
   host: '192.168.1.8',
   dialect: 'mysql',
   port:3306,
